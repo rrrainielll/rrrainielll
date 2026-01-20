@@ -24,9 +24,16 @@ I enjoy creating apps, websites, and simple tutorials that help others learn and
 This website is where I share my work, experiments, and the things I continue to learn along the way.
 
 **Main hub:** https://dex-server.space
-<!-- Banner -->
 <p align="center">
-  <a href="https://dex-server.space">
-    <img src="assets/blog-banner.png" alt="Dex-Server Space" width="100%">
+  <a href="https://dex-server.space" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rrrainielll/Blackout-Assets/main/previews/website-preview.gif"
+      alt="Website Preview"
+      width="85%"
+    />
   </a>
+</p>
+
+<p align="center">
+  <i>Click the preview to open the live site</i>
 </p>
