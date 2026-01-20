@@ -1,17 +1,19 @@
-<!-- Banner / Hero -->
+<!-- Blog Banner -->
 <p align="center">
-  <img src="assets/dex-server-home.png" alt="Dex-Server Space Preview" width="100%" />
+  <a href="https://dex-server.space">
+    <img src="assets/blog-banner.png" alt="Dex-Server Space Blog Banner" width="100%" />
+  </a>
 </p>
 
 <h1 align="center">Hi, I’m Rainiel 👋</h1>
 <p align="center">
-  Customer Service Representative • IT • Builder of practical apps & tools
+  DevOps • IT • Vibe Coder
 </p>
 
 <p align="center">
   🌐 <a href="https://dex-server.space">dex-server.space</a> • 
   🧰 <a href="https://github.com/rrrainielll">GitHub</a> •
-  📩 <a href="mailto:your-email@example.com">your-email@example.com</a>
+  📩 <a href="mailto:rainielmontanez@dex-server.space">rainielmontanez@dex-server.space</a>
 </p>
 
 ---
@@ -25,59 +27,27 @@ I use AI tools to turn ideas into functional and practical projects — and I’
 ---
 
 ## Featured Works
-### 📚 EpubForge — EPUB Validator, Fixer, and Converter
-A web app created because Google Play Books wouldn’t process some EPUB uploads.  
-EpubForge helps validate and fix EPUB files so they work properly with Google Play Books and other readers, with conversion support too.
-
-**Links**
-- Website/Info: https://dex-server.space (add your EpubForge post link)
-- Repo: (add repo link here)
-
-**Preview**
-<p>
-  <img src="assets/epubforge-preview.png" alt="EpubForge Preview" width="100%" />
-</p>
-
----
 
 ### 📲 Teledrop
 A simple app concept/tool for sharing or transferring files/media (add your exact description).
 
 **Links**
-- Post: https://dex-server.space (add Teledrop post link)
-- Repo: (add repo link here)
+- Post: [(Blog)] https://blog.dex-server.space/?post=teledrop
+- Repo: [(Github)](https://github.com/rrrainielll/TeleDrop)
 
 **Preview**
 <p>
-  <img src="assets/teledrop-preview.png" alt="Teledrop Preview" width="100%" />
+  <img src="https://raw.githubusercontent.com/rrrainielll/TeleDrop/refs/heads/main/Preview/Main_Activity.jpg" alt="Teledrop Preview" width="100%" />
 </p>
-
----
-
-### 🖥️ Dual Boot Windows Without a USB — Step-by-Step Guide
-A tutorial-style guide focused on installing/setting up Windows dual boot without needing a USB (add your exact scope).
-
-**Links**
-- Guide: https://dex-server.space (add the post link)
-- Notes/Repo (optional): (add link)
 
 ---
 
 ## Links
 - 🌐 Website: https://dex-server.space
-- 🧾 Blog/Posts: https://dex-server.space (or your posts page)
-- 🧠 Projects: (your GitHub projects page link)
-- 📬 Contact: your-email@example.com
-
----
-
-## What I’m Working On
-- Improving EpubForge features and UI/UX  
-- Building more practical tools for creators and PC users  
-- Writing clear, beginner-friendly tutorials
-
+- 🧾 Blog/Posts: https://blog.dex-server.space
+- 📬 Contact: rainielmontanez@dex-server.space
 ---
 
 <p align="center">
-  <sub>Built with curiosity, consistency, and a bit of AI.</sub>
+  <sub>Built with curiosity and consistency.</sub>
 </p>
