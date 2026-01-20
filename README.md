@@ -20,7 +20,3 @@ I use AI tools to turn ideas into practical projects while continuously improvin
     <img src="assets/blog-banner.png" alt="Dex-Server Space" width="100%">
   </a>
 </p>
----
-<p align="center">
-  <sub>Built with curiosity and consistency.</sub>
-</p>
