@@ -21,21 +21,6 @@ I use AI tools to turn ideas into practical projects while continuously improvin
   </a>
 </p>
 ---
-
-### 📲 Teledrop
-A simple file/media sharing app concept.
-
-- **Post:** https://blog.dex-server.space/?post=teledrop  
-- **Repo:** https://github.com/rrrainielll/TeleDrop
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rrrainielll/TeleDrop/refs/heads/main/Preview/Main_Activity.jpg"
-       alt="Teledrop Preview"
-       width="280">
-</p>
-
----
-
 <p align="center">
   <sub>Built with curiosity and consistency.</sub>
 </p>
